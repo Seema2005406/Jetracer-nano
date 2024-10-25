@@ -28,6 +28,6 @@ RUN pip install --no-cache-dir pygame \
     && pip install --no-cache-dir kuksa-client  # Install kuksa-client
 
 # Run the application
-CMD [ "python", "./publisher.py" ]
+CMD [ "python", "./g29_kuksa.py" ]
 
 
