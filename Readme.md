@@ -38,3 +38,7 @@ Folder Jetracer has all files for KUksa and jetson configuration
 Test_File_PS4 is test folder for PS4
 
 Please refer to readme file inside respective folder for more information
+
+# Aim of the project
+
+Control Jetracer Nvidia Rc car remotely using Kuksa databroker using hardware G29 and also PS4 
