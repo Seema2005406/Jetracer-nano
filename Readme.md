@@ -29,10 +29,12 @@ Data Clients: Applications or services subscribing to vehicle data.
 
 Security Layer: Ensures role-based access and encryption.
 
-## Folder G29 has all files for G29 config with PC - KUksa
+# Instruction
 
-## Folder Jetracer has all files for KUksa and jetson configuration
+Folder G29 has all files for G29 config with PC - KUksa
 
-## Test_File_PS4 is test folder for PS4
+Folder Jetracer has all files for KUksa and jetson configuration
 
-# Please refer to readme file inside respective folder for more information
+Test_File_PS4 is test folder for PS4
+
+Please refer to readme file inside respective folder for more information
